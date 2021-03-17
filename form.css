@@ -1,0 +1,28 @@
+#erour1{
+    color: red;
+}
+#erour2{
+    color: red;
+}
+#erour3{
+    color: red;
+}
+#affichie{
+    color: rgb(43, 255, 0);
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+form {
+   
+
+
+width: 50%;
+height: 600px;
+border: 3px solid rgb(233, 199, 8);
+border-radius: 20px;
+
+}
+.button{
+    position: absolute;
+    left: 180px;
+}
